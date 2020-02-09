@@ -1,4 +1,4 @@
 usaco
 =====
 
-My solutions to usaco training problems with C++
+My solutions to [Usaco training problems](https://train.usaco.org/) with C++
